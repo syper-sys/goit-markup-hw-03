@@ -233,9 +233,9 @@ img {
 }
 
 .team-item {
-    width: 264px;
+    width: calc(100% - 48px) / 4;
     height: 380px;
-    background-color: #ffffff;
+    background-color: #fff;
     border-radius: 0 0 4px 4px;
     box-shadow:
         0 2px 1px rgba(46, 47, 66, 0.08),
