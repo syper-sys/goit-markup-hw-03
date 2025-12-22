@@ -303,6 +303,7 @@ img {
 }
 
 .portfolio-item-subtitle {
+    margin-bottom: 8px;
     text-align: left;
     font-weight: 500;
     font-size: 20px;
